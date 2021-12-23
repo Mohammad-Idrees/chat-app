@@ -8,8 +8,7 @@
 
 html {
     font-size: 16px;
-    color: White;
-	text-align: center;
+    
 }
 
 input {
@@ -24,6 +23,8 @@ body {
 
 h1 {
     margin-bottom: 16px;
+    color: white;
+    text-align: center;
 }
 
 label {
